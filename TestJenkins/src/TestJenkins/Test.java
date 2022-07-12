@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		for(int i = 1;i<=7;i++) {
-			System.out.println("fff Ligne " +i);
+			System.out.println("fLigne " +i);
 		}
 
 	}
